@@ -1,2 +1,6 @@
 *.mp4
 __pycache__/
+.venv/
+media/
+.claude/
+.context/
